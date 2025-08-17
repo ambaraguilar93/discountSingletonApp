@@ -24,7 +24,7 @@ public class Menu {
         while(true){
             System.out.println("Bienvenido/a al sistema de pedidos Online");
             System.out.println("1. Hacer una compra");
-            System.out.println("3. Salir");
+            System.out.println("2. Salir");
             System.out.println("Seleccione una opcion: ");
             
             try{
