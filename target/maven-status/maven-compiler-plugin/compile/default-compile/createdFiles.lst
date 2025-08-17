@@ -1,0 +1,3 @@
+com\mycompany\discountapp\DiscountApp.class
+com\mycompany\discountapp\models\DiscountManager.class
+com\mycompany\discountapp\view\Menu.class
